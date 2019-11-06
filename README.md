@@ -116,3 +116,4 @@
 - 公钥 私钥 两者之间有关联
 - 生成公钥和私钥
   + `ssh-keygen -t rsa -C 'krystal@sina.com`
+  + `git push https://github.com/huoqishi/test112.git master`
